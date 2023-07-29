@@ -10,4 +10,11 @@
 9. start modding
 # How To Package Battle On Sky
 1. zip the files
-2. change to filename.zip to package.nw 
+2. change to filename.zip to package.nw
+# How To Publish Battle On Sky Mod
+1. Zip the package.nw Not change to package.zip
+2. Go To repository
+3. click Issues
+4. click New Issues
+5. Drag And Drop Zip File On Script Bar
+6. click Commit Changes
