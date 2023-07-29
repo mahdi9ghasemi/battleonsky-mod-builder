@@ -2,7 +2,7 @@
 1. Download vscode
 2. Download Git
 3. After Installtion Create Folder And Open The Terminal/Cmd On Path
-4. And Type $ git add repository https://github.com/mahdi9ghasemi/battleonsky-mod-builder.git
+4. And Type git add repository https://github.com/mahdi9ghasemi/battleonsky-mod-builder.git
 5. Change package.nw to package.zip Or Install 7zip
 6. extract the file
 7. delete The package.nw/package.zip
