@@ -11,6 +11,8 @@
 # How To Package Battle On Sky
 1. zip the files
 2. change to filename.zip to package.nw
+3. copy to game path
+4. run the game
 # How To Publish Battle On Sky Mod
 1. Zip the package.nw Not change to package.zip
 2. Go To repository
