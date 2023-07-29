@@ -16,5 +16,5 @@
 2. Go To repository
 3. click Issues
 4. click New Issues
-5. Drag And Drop Zip File On Script Bar
+5. Drag And Drop Zip File On Write Bar
 6. click Commit Changes
