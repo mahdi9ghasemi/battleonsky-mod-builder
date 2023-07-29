@@ -10,6 +10,4 @@
 9. start modding
 # How To Package Battle On Sky
 1. zip the files
-2. change to filename.zip to package.nw
-3. copy to path game
-4. and run the game 
+2. change to filename.zip to package.nw 
